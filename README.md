@@ -15,3 +15,6 @@ bikeshare_2.py
 ### Credits
 Javier Guajardo
 
+## Sources
+https://midu.dev/buenas-practicas-escribir-commits-git/
+
