@@ -3,6 +3,8 @@
 import time
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -158,6 +160,7 @@ def station_stats(df):
     print("\nThis took %s seconds." % round((time.time() - start_time),3))
     print('-'*40)
 
+    print("Test message")
 
 def trip_duration_stats(df):
     
