@@ -158,6 +158,7 @@ def station_stats(df):
     print("\nThis took %s seconds." % round((time.time() - start_time),3))
     print('-'*40)
 
+    print("Test message")
 
 def trip_duration_stats(df):
     
